@@ -1,2 +1,2 @@
 # function_drawer_in_greek
- self-explanatory
+in order to download and use the program simply install the .exe file.
